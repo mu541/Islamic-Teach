@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html lang="ur">
+<head>
+    <meta charset="UTF-8">
+    <title>میری پہلی ویب سائٹ</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>خوش آمدید</h1>
+    <p>یہ میری پہلی ویب سائٹ ہے!</p>
+    <button onclick="showMessage()">کلک کریں</button>
+
+    <script src="script.js"></script>
+</body>
+</html
