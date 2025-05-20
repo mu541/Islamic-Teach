@@ -1,16 +1,11 @@
 
-<!DOCTYPE html>
-<html lang="ur">
-<head>
-    <meta charset="UTF-8">
-    <title>میری پہلی ویب سائٹ</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <h1>خوش آمدید</h1>
-    <p>یہ میری پہلی ویب سائٹ ہے!</p>
-    <button onclick="showMessage()">کلک کریں</button>
+body {
+    font-family: 'Noto Nastaliq Urdu', serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    direction: rtl;
+}
 
-    <script src="script.js"></script>
-</body>
-</html
+h1 {
+    color: #0066cc;
+}
